@@ -1,14 +1,14 @@
 # Fine-Tuned Mental Health Chatbot (Phi-2)
 
 ## 🚀 Project Overview
-This project focuses on fine-tuning the **Microsoft Phi-2** model to build an AI-powered **mental health chatbot**. The chatbot is designed to provide supportive and empathetic responses to users seeking guidance. 
+This project focuses on fine-tuning the different models to build an AI-powered **mental health chatbot**. The chatbot is designed to provide supportive and empathetic responses to users seeking guidance. 
 
 By leveraging **LoRA (Low-Rank Adaptation)** and **4-bit quantization**, the model is optimized for efficient training and deployment while maintaining high-quality responses.
 
 ---
 
 ## 🔥 Features
-✅ Fine-tuned **Phi-2** model for mental health conversations  
+✅ Fine-tuned different models for mental health conversations  
 ✅ **LoRA fine-tuning** for efficient adaptation  
 ✅ **4-bit quantization** for faster inference and low memory usage  
 ✅ Uses **Gradient Checkpointing** for improved training efficiency  
