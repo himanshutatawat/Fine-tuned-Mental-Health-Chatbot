@@ -12,7 +12,7 @@ pip install -q torch peft bitsandbytes transformers trl accelerate einops tqdm s
 import lamini
 from lamini import Lamini
 
-lamini.api_key = "6fba48303526d8bbfc3b6ddb68026f69f6726c08b713dea93a1169e8943aa83c"  # 🔥 Replace with your actual Lamini API key
+lamini.api_key = "your_lamini_api_key"  # 🔥 Replace with your actual Lamini API key
 
 import json
 import pandas as pd
